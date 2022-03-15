@@ -178,7 +178,7 @@ Create the code needed in `server.js` to sync the Sequelize models to the MySQL 
 
 ## Review
 
-* A walkthrough video demonstrating the functionality of the application and all of the acceptance criteria being met:
+* A walkthrough video demonstrating the functionality of the application and all of the acceptance criteria being met: https://drive.google.com/file/d/1Y8rqfLK30Ia1N0LjwspUtgMz054We7Ve/view?usp=sharing
 
 * The URL of the GitHub repository. Give the repository a unique name and include a readme describing the project: https://github.com/Darimo4ka/e-commerce
 
